@@ -1,0 +1,23 @@
+.container-cover {
+    margin: 5rem auto;
+    width: 90%;
+    height: 65vh;
+}
+h1 {
+    font-size: 3rem;
+}
+#message {
+    padding-bottom: 2rem;
+    font-size: 1.8rem;
+}
+#card, #sum {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+}
+.button-cover {
+    margin-top: 3rem;
+}
+button {
+    width: 60%;
+    font-size: 1.3rem;
+}
