@@ -20,7 +20,7 @@ This is a Black-jack-game app
 
 ### Links
 
-- Live Site URL:(https://peterforyou.github.io/passenger-counter-app/)
+- Live Site URL:(https://peterforyou.github.io/Black-jack-game/)
 
 ### Built with
 
